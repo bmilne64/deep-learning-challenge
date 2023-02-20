@@ -1,4 +1,4 @@
-## Alphabet Soup Applicatant Classifier 
+## Alphabet Soup Applicant Classifier 
 
 Classify Alphabet Soup Grant Application Data using Advanced Machine Learning Models
 
@@ -58,27 +58,27 @@ Classify Alphabet Soup Grant Application Data using Advanced Machine Learning Mo
 
 * Model 2 structure
 
-![](images/Model2.png)
+![](images/model2.png)
 
 * Model 2 loss and accuracy
 
-![](images/Model2_acc.png)
+![](images/model2_acc.png)
 
 * Model 3 structure
 
-![](images/Model3.png)
+![](images/model3.png)
 
 * Model 3 loss and accuracy
 
-![](images/Model3_acc.png)
+![](images/model3_acc.png)
 
 * Model 4 structure
 
-![](images/Model4.png)
+![](images/model4.png)
 
 * Model 4 loss and accuracy
 
-![](images/Model4_acc.png)
+![](images/model4_acc.png)
 
 ### Step 4 - Write a Report on the Neural Network Model
 
